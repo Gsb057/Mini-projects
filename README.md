@@ -18,3 +18,17 @@ ATGCGTACGTTAGCTAGCTAGCTA
 - user can search for a name
 - it doesnt allow duplicates
 - it also analyzes data (implemented from first project)
+
+## 3. Gene expression analyzer in a csv:
+- This is a gene expression analyzer program. This program can do these tasks:
+  - store genes
+  - count genes
+  - find highest expressed gene
+  - find lowest expressed gene
+  - average expression
+  - search for a gene
+  - sort genes by expression         
+  - cancer vs healthy expression graph
+  - compare healthy vs cancer
+  - detect upregulated genes
+  - threshold filtering
