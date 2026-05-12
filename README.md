@@ -12,7 +12,7 @@ Trying to relearn python and other stuff after long break.
 - stores it in a fasta file in this format:
 
 ```fasta
->Sequence_Identifier_001 Optional Description
+>BRCA1 Homo sapiens breast cancer susceptibility gene
 ATGCGTACGTTAGCTAGCTAGCTA
 ```
 - user can search for a name
