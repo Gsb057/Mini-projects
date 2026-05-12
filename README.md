@@ -32,3 +32,11 @@ ATGCGTACGTTAGCTAGCTAGCTA
   - compare healthy vs cancer
   - detect upregulated genes
   - threshold filtering
+
+## 4. DNA Pattern & Motif Finder:
+-This program inputs a DNA sequence and do various functions:
+  -find motif/pattern
+  -Detect palindromic sequences
+  -Find repeats
+  -Search codons
+  -Identify restriction sites
