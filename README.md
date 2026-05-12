@@ -7,7 +7,7 @@ Trying to relearn python and other stuff after long break.
 - checks if it is correct.
 - gives length, DNA compliment seq, RNA complement seq, GC content, and amount of each bases seperately.
 
-## 2. fasta file analyzer:
+## 2. FASTA file analyzer:
 - inputs a dna sequence name and description
 - stores it in a fasta file in this format:
 
