@@ -40,3 +40,14 @@ ATGCGTACGTTAGCTAGCTAGCTA
   - Find repeats
   - Search codons
   - Identify restriction sites
+
+## 5. Protein Translation Simulator:
+- This program inputs a DNA sequence and simulates protein translation:
+  - start the translation only after finding start codon
+  - stops the function if stop codon is found
+  - for searching start codon it uses seperate searching system, where sliding window method is used mimicking original biology
+  - after findng start codon the program uses search by 3 step increment
+  - gives the final protein like this:
+  - ```
+    The translation of given sequence is:  Methionine - Phenylalanine - Glycine - Glutamic Acid - Histidine
+    ```
